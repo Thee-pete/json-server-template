@@ -24,13 +24,13 @@
       "products":[
           {
               "name":"shirt",
-              "quantity":8,
+              "quantity":12,
               "price":1000
           },
           {
               "name":"trouser",
-              "quantity":5,
-              "price":40000
+              "quantity":50,
+              "price":4000
           }
       ]
   }
