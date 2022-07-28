@@ -6,6 +6,7 @@
       "category":"clothing",
       "products":[
           {
+              "id":1,
               "name":"trousers",
               "quantity":3,
               "price":100
@@ -23,6 +24,7 @@
       "category":"clothing",
       "products":[
           {
+              "id":2,
               "name":"shirt",
               "quantity":12,
               "price":1000
