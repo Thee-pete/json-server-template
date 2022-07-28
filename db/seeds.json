@@ -25,7 +25,7 @@
       "category":"clothing",
       "products":[
           {
-              "id":2,
+              "id":1,
               "name":"shirt",
               "quantity":12,
               "price":1000
