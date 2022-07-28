@@ -12,6 +12,7 @@
               "price":100
           },
           {
+              "id":2,
               "name":"shirts",
               "quantity":3,
               "price":5000
@@ -29,7 +30,8 @@
               "quantity":12,
               "price":1000
           },
-          {
+          { 
+              "id":2,
               "name":"trouser",
               "quantity":50,
               "price":4000
