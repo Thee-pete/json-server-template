@@ -4,21 +4,20 @@
       "id":1,
       "name":"gravy",
       "category":"clothing",
-      "image":"https://cdn-icons.flaticon.com/png/512/5804/premium/5804611.png?token=exp=1659022496~hmac=757b78989077db94ddac6bff98a6e7ea",
       "products":[
           {
               "id":1,
               "name":"trousers",
               "quantity":3,
-              "price":100,
-              "image":"https://cdn-icons.flaticon.com/png/512/3114/premium/3114577.png?token=exp=1659019940~hmac=aeb980ccbfed476452cc127ad14288d6"
+              "price":100
+              
           },
           {
               "id":2,
               "name":"shirts",
               "quantity":3,
-              "price":5000,
-              "image":"https://cdn-icons.flaticon.com/png/512/3114/premium/3114577.png?token=exp=1659019940~hmac=aeb980ccbfed476452cc127ad14288d6"
+              "price":5000
+              
 
           }
       ]
@@ -27,22 +26,19 @@
       "id":2,
       "name":"mandy",
       "category":"clothing",
-      "image":"https://cdn-icons.flaticon.com/png/512/5804/premium/5804611.png?token=exp=1659022496~hmac=757b78989077db94ddac6bff98a6e7ea",
       "products":[
           {
               "id":1,
               "name":"shirt",
               "quantity":2,
-              "price":100,
-              "image":"https://cdn-icons.flaticon.com/png/512/3114/premium/3114577.png?token=exp=1659019940~hmac=aeb980ccbfed476452cc127ad14288d6"
+              "price":100
 
           },
           { 
               "id":2,
               "name":"trouser",
               "quantity":50,
-              "price":4000,
-              "image":"https://cdn-icons.flaticon.com/png/512/3114/premium/3114577.png?token=exp=1659019940~hmac=aeb980ccbfed476452cc127ad14288d6"
+              "price":4000
           }
       ]
   }
