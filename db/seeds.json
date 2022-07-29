@@ -29,14 +29,14 @@
       "products":[
           {
               "id":1,
-              "name":"shirt",
+              "name":"Jeans",
               "quantity":2,
               "price":100
 
           },
           { 
               "id":2,
-              "name":"trouser",
+              "name":"T-shirts",
               "quantity":50,
               "price":4000
           }
