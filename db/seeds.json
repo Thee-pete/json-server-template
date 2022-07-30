@@ -7,14 +7,14 @@
       "products":[
           {
               "id":1,
-              "name":"trousers",
-              "quantity":3,
+              "name":"Khakis",
+              "quantity":30,
               "price":100
               
           },
           {
               "id":2,
-              "name":"shirts",
+              "name":"Shirts",
               "quantity":3,
               "price":5000
               
